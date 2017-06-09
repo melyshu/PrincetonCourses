@@ -1,5 +1,5 @@
 {
-  "name": "princeton-courses",
+  "name": "pc-sandbox",
   "version": "1.2.1",
   "description": "An app to explore Princeton University course listings and evaluations.",
   "main": "app.js",
@@ -22,17 +22,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sebthedev/PrincetonCourses.git"
+    "url": "git+https://github.com/melyshu/PrincetonCourses.git"
   },
-  "author": "",
+  "author": "melyshu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sebthedev/PrincetonCourses/issues"
+    "url": "https://github.com/melyshu/PrincetonCourses/issues"
   },
   "homepage": "https://www.princetoncourses.com",
   "standard": {
     "globals": [
       "$"
     ]
+  },
+  "directories": {
+    "doc": "docs"
   }
 }
